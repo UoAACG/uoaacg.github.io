@@ -6,8 +6,6 @@ header:
   actions:
     - label: "GitHub"
       url: "https://github.com/UoAACG"
-    - label: "Call to action 2"
-      url: "https://mademistakes.com"
 categories:
   - Layout
   - Uncategorized

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "University of Athens Computational Astrophysics Group"
 title_separator          : "-"
 name                     : "Michalis Papachristou"
 description              : "An amazing website."

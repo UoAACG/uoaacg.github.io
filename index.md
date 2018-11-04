@@ -9,4 +9,6 @@ tags:
   - test
 ---
 
-Welcome to University of Athens Computational Astrophysics an astrostatistics group
+Welcome to University of Athens Computational Astrophysics an astrostatistics group.
+
+Our first group meeting will be at  **Wednesday 7/11 at 15.00**. See you there.
